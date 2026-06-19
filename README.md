@@ -1,3 +1,5 @@
+# E LAB 8!!!!!
+
 Ghid de Pornire: Fabrica de Flux (DDD + Data Flow)
 ## Pasul 1: Pregătirea terenului (Fisierele TXT)
 - Înainte de orice, mută fișierele de configurare în folderul Home al utilizatorului, deoarece codul le caută dinamic prin user.home (/home/student/):
