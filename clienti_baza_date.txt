@@ -1,0 +1,4 @@
+C100|Popescu Ion|Strada Lalelelor nr. 5, Iasi
+C200|Ionescu Maria|Bulevardul Unirii nr. 12, Bucuresti
+C300|Vasilescu Dan|Strada Primaverii nr. 44, Cluj-Napoca
+C400|Elena Dumitru|Calea Aradului nr. 89, Timisoara
